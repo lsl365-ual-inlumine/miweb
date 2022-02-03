@@ -1,0 +1,154 @@
+body
+{
+	background: grey;
+	font-family: arial;
+}
+.container
+{
+	background: white;
+	border-radius: 20px;
+	width: 960px;
+	margin: auto;
+}
+
+.header
+{
+}
+
+.header img
+{ 
+	height: 75px;
+}
+
+.menu
+{
+	float: right;
+}
+
+.menu li
+{
+	display: inline-block;
+	margin-left: 10px;
+}
+
+.menu a
+{
+	text-decoration: none;
+	color: #30a9FF;
+	padding: 5px;
+}
+
+.menu a:hover{
+	border: 2px solid blue;
+}
+
+.top
+{
+	
+}
+
+
+.top a:hover
+{	
+	background:grey;
+	border-radius: 20px;
+}
+
+.slider img
+{ 
+width: 960px;
+}
+
+
+.row
+{
+	
+	text-align: center;
+	background: #CCC;
+	padding:5px;
+}
+
+
+
+.col
+{
+	display:inline-block;
+	width: 260px;
+	padding: 20px;
+}
+.col2
+{
+	display:inline-block;
+	width: 260px;
+	padding: 20px;
+	text-align= center;
+}
+.col h2
+{
+	
+}
+
+.col p
+{
+	
+}
+.article p
+{
+	
+
+	
+}
+	
+.row2
+{
+	
+}
+
+.article 
+{
+	width: 450px;
+	text-align: center;
+	font-weight:bold;
+
+}	
+
+.article p
+{
+	color: white;
+	font-size:14px;
+	
+	
+}
+
+#lateral
+{
+	width: 150px;
+	height:150px;
+	border-radius: 150px;
+}
+.article
+{
+	width:400px;
+	display: inline-block;
+	padding: 20px;
+	background: grey;
+}
+.article filedset
+{
+
+}
+.footer
+{
+	overflow: hidden;
+	
+}
+
+.footer a
+{
+	
+}
+
+.footer span
+{
+	
+}
